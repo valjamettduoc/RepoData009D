@@ -10,6 +10,26 @@
       "isactive": true
     }
   ],
+  "alumnos": [
+    {
+      "id": "5c90",
+      "nombre": "Juanito",
+      "apellido": "Perez",
+      "rut": "34666999-6",
+      "email": "perezjuan@email.com",
+      "password": "holaaaaaaa",
+      "isactive": true
+    },
+    {
+      "id": "ae89",
+      "nombre": "Hola",
+      "apellido": "aaaa",
+      "rut": "22333444-6",
+      "email": "kdkds@dkkd.com",
+      "password": "qweasd",
+      "isactive": true
+    }
+  ],
   "asignaturas": [
     {
       "id": "1",
