@@ -52,6 +52,15 @@
       "profesor": "Viviana Poblete"
     }
   ],
-  "asistencias": [],
+  "asistencias": [
+    {
+      "id": "1",
+      "rut": "34666999-6",
+      "email": "perezjuan@email.com",
+      "asignatura": "Programacion de Aplicaciones Moviles",
+      "profesor":"Viviana Poblete",
+      "fecha": "28-11-2024"
+    }
+  ],
   "justificaciones": []
 }
