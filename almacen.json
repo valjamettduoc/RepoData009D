@@ -2,7 +2,7 @@
   "profesores": [
     {
       "id": "f7fd",
-      "nombre": "Maricon",
+      "nombre": "Christian",
       "apellido": "Lazcano",
       "rut": "69666999-0",
       "email": "lazcano@duoc.com",
@@ -62,5 +62,6 @@
       "fecha": "28-11-2024"
     }
   ],
-  "justificaciones": []
+  "justificaciones": [],
+  "qrgenerado": []
 }
